@@ -1,4 +1,4 @@
-Estes problemas destinam à iniciação do uso do SageMath  em protótipos de esquemas clássicos de chave pública.
+# Usa o SageMath em protótipos de esquemas clássicos de chave pública.
 
 
 1. Construir uma classe Python que implemente um **KEM - ElGamal**. A classe deve
